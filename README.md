@@ -1,6 +1,6 @@
 # Take Information in NIST NVD
 
-This project develops with Python.
+This project developed with Python.
 
 When you search in the NIST NVD data, you write a keyword which is explain your research.(https://nvd.nist.gov/vuln/search) After that, you see the vuln ID, description, Published time ,and CVSS severity (Version 2 and Version3) fields. 
 
@@ -17,12 +17,11 @@ You can see the research results in the json and database files.
 
 <img width="864" alt="Screen Shot 2022-01-02 at 23 57 51" src="https://user-images.githubusercontent.com/47140243/147889292-71d1cd8f-2f40-49e4-bcb4-3808cbab511d.png">
 
-
 You can see the NVD result numbers are same with my results.
 
 ![Screen Shot 2022-01-02 at 23 53 29](https://user-images.githubusercontent.com/47140243/147889205-ef5847c5-ccf2-4615-a67b-6ffadd3d9184.png)
 
-You use this project in the blue team opportunities. For example, you want to monitor which products have vulnerabilities. When the product has a new vulnerability, you will see this problem and take a solution. 
+You can use this project in blue team opportunities. For example, you want to monitor which products have vulnerabilities. When the product has a new vulnerability, you will see this problem and take a solution. 
 
 I used this result in ELK Stack.
 
