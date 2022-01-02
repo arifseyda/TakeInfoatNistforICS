@@ -190,6 +190,10 @@ def verial2():
     liste = cursor2.fetchall()
     return liste
 
+def take_keyword():
+    parse_object = optparse.OptionParser()
+    parse_object.add_option("-w", "--keyword", dest="keywords", help="Enter keyword")
+    return parse_object.parse_args()
 
 def tupple_to_array(tupple,number):
     result = []
@@ -203,6 +207,9 @@ def tupple_to_array(tupple,number):
 if __name__ == '__main__':
 
     create_table()
+    (userInput,arguments) = take_keyword()
+    keywordd = userInput.keywords
+    request_process(keywordd)
     request_process("Siemens S7-1200")
 
 con2.close()
