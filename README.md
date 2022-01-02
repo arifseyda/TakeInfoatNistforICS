@@ -21,6 +21,7 @@ You can see the NVD result numbers are same with my results.
 
 ![Screen Shot 2022-01-02 at 23 53 29](https://user-images.githubusercontent.com/47140243/147889205-ef5847c5-ccf2-4615-a67b-6ffadd3d9184.png)
 
+This project can help in blue team opportunities.
 You can use this project in blue team opportunities. For example, you want to monitor which products have vulnerabilities. When the product has a new vulnerability, you will see this problem and take a solution. 
 
 I used this result in ELK Stack.
