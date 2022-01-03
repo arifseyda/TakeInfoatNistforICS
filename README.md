@@ -1,4 +1,4 @@
-# Take Information in NIST NVD
+# Take Information in NIST NVD for ICS
 
 This project developed with Python.
 
