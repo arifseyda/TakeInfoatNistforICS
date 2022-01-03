@@ -23,7 +23,7 @@ You can see the NVD result numbers are same with my results.
 
 You can use this project in blue team opportunities. For example, you want to monitor which products have vulnerabilities. When the product has a new vulnerability, you will see this problem and take a solution. 
 
-I used this results for ICS Security. I developed this project at the National Testbed Center for Critical Infrastructures (https://center.sakarya.edu.tr). I developed another project called Asset Management in ICS Systems in there. I got ip addresses, mac addresses, vendor names, protocols, version numbers to identify ICS products. I used the vendor name keywords to submit to NVD databases. You can see "Siemens S7-1200" keyword results for monitoring in ELK Stack. If the product has a new CVE or vulnerability, I can monitor in the ELK Stack.
+I used this results for ICS Security. I developed this project at the National Testbed Center for Critical Infrastructures - CENTER SAU (https://center.sakarya.edu.tr). I developed another project called Asset Management in ICS Systems in there. I got ip addresses, mac addresses, vendor names, protocols, version numbers to identify ICS products. I used the vendor name keywords to submit to NVD databases. You can see "Siemens S7-1200" keyword results for monitoring in ELK Stack. If the product has a new CVE or vulnerability, I can monitor in the ELK Stack.
 
 ![image](https://user-images.githubusercontent.com/47140243/147889405-519c4f28-58e9-454a-aa69-828f719f0bd3.png)
 
